@@ -1,0 +1,20 @@
+C:\Users\Firke\Desktop\SimpleLoader-master\GitHub SimpleLoader\obj\Release\Loader.csprojAssemblyReference.cache
+C:\Users\Firke\Desktop\SimpleLoader-master\GitHub SimpleLoader\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\Firke\Desktop\SimpleLoader-master\GitHub SimpleLoader\obj\Release\SimpleLoader.Properties.Resources.resources
+C:\Users\Firke\Desktop\SimpleLoader-master\GitHub SimpleLoader\obj\Release\Loader.csproj.GenerateResource.cache
+C:\Users\Firke\Desktop\SimpleLoader-master\GitHub SimpleLoader\obj\Release\Loader.csproj.CoreCompileInputs.cache
+C:\Users\Firke\Desktop\SimpleLoader-master\GitHub SimpleLoader\bin\Release\SimpleLoader.exe.config
+C:\Users\Firke\Desktop\SimpleLoader-master\GitHub SimpleLoader\bin\Release\SimpleLoader.exe
+C:\Users\Firke\Desktop\SimpleLoader-master\GitHub SimpleLoader\bin\Release\SimpleLoader.pdb
+C:\Users\Firke\Desktop\SimpleLoader-master\GitHub SimpleLoader\obj\Release\SimpleLoader.exe
+C:\Users\Firke\Desktop\SimpleLoader-master\GitHub SimpleLoader\obj\Release\SimpleLoader.pdb
+C:\Users\Firke\Desktop\poliaisgay\poliagay\bin\Release\SimpleLoader.exe.config
+C:\Users\Firke\Desktop\poliaisgay\poliagay\bin\Release\SimpleLoader.exe
+C:\Users\Firke\Desktop\poliaisgay\poliagay\bin\Release\SimpleLoader.pdb
+C:\Users\Firke\Desktop\poliaisgay\poliagay\obj\Release\Loader.csprojAssemblyReference.cache
+C:\Users\Firke\Desktop\poliaisgay\poliagay\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\Firke\Desktop\poliaisgay\poliagay\obj\Release\SimpleLoader.Properties.Resources.resources
+C:\Users\Firke\Desktop\poliaisgay\poliagay\obj\Release\Loader.csproj.GenerateResource.cache
+C:\Users\Firke\Desktop\poliaisgay\poliagay\obj\Release\Loader.csproj.CoreCompileInputs.cache
+C:\Users\Firke\Desktop\poliaisgay\poliagay\obj\Release\SimpleLoader.exe
+C:\Users\Firke\Desktop\poliaisgay\poliagay\obj\Release\SimpleLoader.pdb

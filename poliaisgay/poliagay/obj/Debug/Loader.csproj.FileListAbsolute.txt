@@ -1,0 +1,6 @@
+C:\Users\Firke\Desktop\SimpleLoader-master\GitHub SimpleLoader\obj\Debug\Loader.csprojAssemblyReference.cache
+C:\Users\Firke\Desktop\poliaisgay\poliagay\obj\Debug\Loader.csprojAssemblyReference.cache
+C:\Users\Firke\Desktop\poliaisgay\poliagay\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Firke\Desktop\poliaisgay\poliagay\obj\Debug\SimpleLoader.Properties.Resources.resources
+C:\Users\Firke\Desktop\poliaisgay\poliagay\obj\Debug\Loader.csproj.GenerateResource.cache
+C:\Users\Firke\Desktop\poliaisgay\poliagay\obj\Debug\Loader.csproj.CoreCompileInputs.cache
